@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qFq7Aj8k8bMfYDj1IA1HmZUFHebrHxry1v06ZuCGOlSBlvMGAkFW1obBvRzlRiAKA+W7aVOTqQyNNIHztrg1Uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tamrs\\Source\\Repo\\Codenation\\Codenation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tamrs\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
